@@ -1,0 +1,34 @@
+.image_details {
+    padding-bottom: 5rem;
+}
+
+.image_details_content {
+    display: flex;
+    flex-direction: column;
+}
+.image_title{
+    margin: 2rem 0;
+}
+.image_title h4{
+    text-transform: capitalize;
+}
+
+.image_description{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+
+.image_description p{
+    text-transform: capitalize;
+}
+.image_img {
+
+}
+.image_img img{
+    width: 500px;
+
+}
+
+.ocr_btn {
+    margin-bottom: 1rem;
+}

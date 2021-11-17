@@ -1,0 +1,53 @@
+.home{
+padding-bottom: 5rem;
+}
+
+.home_content {
+display: flex;
+flex-direction: column;
+}
+
+.home_content_heading {
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 2rem 0;
+}
+
+.home_content_heading a {
+    text-decoration: none;
+}
+
+.home_content_table {
+    width: 100%;
+}
+
+.home_content_table table {
+    width: 100%;
+    border-collapse: collapse;
+   
+}
+
+
+.home_content_table table tr td {
+    padding: 1rem 10px;
+    
+}
+table thead{
+   background-color: #1976d2;
+     border-collapse: separate;
+   
+}
+
+table thead td {
+    padding: 1rem 10px;
+    color: white;
+}
+table tbody tr td {
+    border-bottom: 1px solid #1976d275;
+
+}
+
+table tbody tr:hover{
+     background: #eff1f3;
+}

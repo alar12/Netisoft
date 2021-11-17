@@ -1,0 +1,35 @@
+.login {
+    width: 100%;
+    min-height: 100vh;
+}
+
+.login_content {
+    display: flex;
+    flex-direction: column;
+
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+        min-height: 100vh;
+}
+.login_heading {
+    margin-bottom: 1rem;
+}
+.my_textfield {
+    width: 100%;
+    margin: .5rem 0 !important;
+}
+
+.my_form_control {
+    width: 100%;
+    margin-bottom: 2rem !important;
+    margin-top: .5rem !important;
+}
+
+.links {
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 2rem;
+}
